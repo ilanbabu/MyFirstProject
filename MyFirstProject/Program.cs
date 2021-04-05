@@ -8,6 +8,10 @@ namespace MyFirstProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello ilan!");
+            for (int i=0;i<10;i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
